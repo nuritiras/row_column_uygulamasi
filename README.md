@@ -84,7 +84,7 @@ ibadet-gunlugum/
 Terminali açın ve aşağıdaki komutu çalıştırın:
 
 ```bash
-git clone <GITHUB_REPO_URL>
+git clone https://github.com/nuritiras/row_column_uygulamasi
 ```
 
 `<GITHUB_REPO_URL>` bölümünü kendi GitHub depo adresinizle değiştirin.
@@ -217,3 +217,6 @@ Bu proje, Flutter'da `Row`, `Column` ve temel Material bileşenlerinin kullanım
 ## 📄 Lisans
 
 Bu projeyi eğitim ve öğrenme amaçlı kullanabilir, inceleyebilir ve kendi çalışmalarınız için geliştirebilirsiniz. Yeniden dağıtım ve kullanım koşullarını belirlemek için depoya uygun bir açık kaynak lisansı eklemeniz önerilir.
+
+<img width="798" height="1600" alt="image" src="https://github.com/user-attachments/assets/df36bd3c-3598-49e3-b576-7cd73dde09d2" />
+
