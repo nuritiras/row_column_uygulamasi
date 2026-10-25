@@ -216,7 +216,7 @@ Bu proje, Flutter'da `Row`, `Column` ve temel Material bileşenlerinin kullanım
 
 ## 📄 Lisans
 
-Bu projeyi eğitim ve öğrenme amaçlı kullanabilir, inceleyebilir ve kendi çalışmalarınız için geliştirebilirsiniz. Yeniden dağıtım ve kullanım koşullarını belirlemek için depoya uygun bir açık kaynak lisansı eklemeniz önerilir.
+Bu projeyi eğitim ve öğrenme amaçlı kullanabilir, inceleyebilir ve kendi çalışmalarınız için geliştirebilirsiniz.
 
 <img width="798" height="1600" alt="image" src="https://github.com/user-attachments/assets/df36bd3c-3598-49e3-b576-7cd73dde09d2" />
 
